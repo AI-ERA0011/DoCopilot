@@ -1,0 +1,53 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "react-jsx",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    ".next/dev/types/**/*.ts",
+    "**/*.mts"
+  ],
+  "exclude": ["node_modules"]
+}
+update 2024-08-07 11:40:22
+update 2024-08-08 17:59:10
+update 2024-08-16 11:15:36
+update 2024-09-13 11:52:35
+update 2024-09-13 8:22:41
+update 2024-09-16 17:46:49
+update 2024-09-18 12:50:2
+update 2024-09-24 16:24:59
+update 2024-10-02 13:13:50
+update 2024-10-02 13:13:50
+update 2024-10-03 13:58:19
+update 2024-10-03 13:58:19
+// update 2024-09-18 15:45:52
+// update 2024-09-18 14:9:58
+// update 2024-09-25 9:6:24
+// update 2024-09-25 9:35:0
+// update 2024-10-02 16:1:47
+// update 2024-08-28 10:56:48
+// update 2024-09-23 9:11:29
